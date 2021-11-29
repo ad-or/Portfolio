@@ -1,6 +1,6 @@
 # Portfolio
 A piece of code I made myself as a challange.
-## Lois Warhol
+## Lois_Warhol --> WarholPatch
 * a piece of code that creates Warhol patch (it takes a photo, clones it 6 times in one frame, and applies different colour patch to each of them) 
 * it still needs to be updated with a possibility to load any photo
 ### Before
