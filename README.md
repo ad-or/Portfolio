@@ -3,7 +3,7 @@ A piece of code I made myself as a challange.
 ## Lois_Warhol.py --> WarholPatch.py (2nd version)
 * a piece of code that creates Warhol patch (it takes a photo, clones it 6 times in one frame, and applies different colour patch to each of them) 
 * it still needs to be updated with a possibility to load any photo
-### Main changes to the 2nd version:
+#### Main changes to the 2nd version:
 * a user can now browse for an image,
 * different images can be selected as the program can identify image's size and choose appropriate canvas.
 
